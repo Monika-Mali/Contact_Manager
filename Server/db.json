@@ -1,0 +1,98 @@
+{
+  "contacts": [
+    {
+      "id": "AAA101",
+      "name": "Saurabh",
+      "photo": "https://pics.craiyon.com/2023-10-27/b9ac8e6cd85f481cac335a68dab0eacf.webp",
+      "Contact": 8557895904,
+      "email": "saurabh@gmail.com",
+      "company": "Accenture",
+      "title": "Java Developer",
+      "groupId": "1"
+    },
+    {
+      "id": "AAA102",
+      "name": "Diksha",
+      "photo": "https://t3.ftcdn.net/jpg/06/07/16/28/360_F_607162882_E1ODNVrq4sEua5vyxywhmoLuRfA4Vn7Z.jpg",
+      "Contact": 8552957852,
+      "email": "diksha@gmail.com",
+      "company": "Accenture",
+      "title": "FullStack Developer",
+      "groupId": 2
+    },
+    {
+      "id": "AAA103",
+      "name": "Shital",
+      "photo": "https://cdn-icons-png.flaticon.com/512/2995/2995462.png",
+      "Contact": 7896357852,
+      "email": "shital@gmail.com",
+      "company": "Accenture",
+      "title": "Software Developer",
+      "groupId": 2
+    },
+    {
+      "id": "AAA104",
+      "name": "Amol",
+      "photo": "https://image.lexica.art/full_webp/ad0479cb-59cd-4e19-9483-247c4a17318a",
+      "Contact": 789636253,
+      "email": "amol@gmail.com",
+      "company": "Accenture",
+      "title": "FrontEnd Developer",
+      "groupId": 3
+    },
+    {
+      "id": "AAA105",
+      "name": "Pooja",
+      "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzzTWlX-a2xAgLOIaE2u30lzmvaAlXGe4rqbgt6TA1hQ&s",
+      "Contact": 8552157852,
+      "email": "pooja@gmail.com",
+      "company": "Accenture",
+      "title": "Backend Developer",
+      "groupId": 3
+    },
+    {
+      "id": "AAA107",
+      "name": "Sumit",
+      "photo": "https://image.lexica.art/full_webp/14d96517-42f5-4eaf-ad07-02fc1b2623bf",
+      "Contact": 8727800741,
+      "email": "sumit@gmail.com",
+      "company": "TCS",
+      "title": "Backend Developer",
+      "groupId": 1
+    },
+    {
+      "id": "AAA108",
+      "name": "Akash",
+      "photo": "https://image.lexica.art/full_webp/d1687c1b-d262-4cdf-8f3a-390ac8af2fde",
+      "Contact": 85896952904,
+      "email": "akash@gmail.com",
+      "company": "TCS",
+      "title": "FrontEnd Developer",
+      "groupId": 3
+    },
+    {
+      "id": "b32e",
+      "name": "Smita",
+      "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpLkHuGKQCHcDin4ABUZziq9uvoEQ75X_f9bQ2S3b27g&s",
+      "Contact": "9478529635",
+      "email": "komal@gmail.com",
+      "company": "TCS",
+      "title": "FrontEnd Dev",
+      "groupId": "Family"
+    }
+  ],
+  "groups": [
+    {
+      "id": "1",
+      "groupName": "Family"
+    },
+    {
+      "id": "2",
+      "groupName": "Friends"
+    },
+    {
+      "id": "3",
+      "groupName": "Collegous"
+    }
+  ]
+}
